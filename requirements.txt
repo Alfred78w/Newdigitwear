@@ -6,7 +6,7 @@ cmake==3.25.2
 colorama==0.4.6
 contourpy==1.2.1
 cycler==0.12.1
-dlib @ file:///C:/Users/Alfred/Desktop/Newdigitwear/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
+dlib @ dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
 dnspython==2.6.1
 email_validator==2.1.1
 environs==11.0.0
